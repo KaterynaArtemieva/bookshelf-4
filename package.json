@@ -2,10 +2,10 @@
     "name": "parcel-project-template",
     "version": "2.0.0",
     "description": "",
-    "homepage": "https://DimaSavchuk.github.io/bookshelf-team-4",
+    "homepage": "https://KaterynaArtemieva.github.io/bookshelf-4",
     "scripts": {
         "start": "parcel src/*.html",
-        "build": "parcel build src/*.html --public-url /bookshelf-team-4/"
+        "build": "parcel build src/*.html --public-url /bookshelf-4/"
     },
     "repository": {
         "type": "git",
